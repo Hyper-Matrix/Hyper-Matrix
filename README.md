@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 #### I am Abhishek Kumar 🐉. Technology excites me and I love exploring more about it📱💻. Currently an undergrad 🎓 pursuing Instrumentation and Electronics Engineering. 
 
 - 🌱 I’m currently learning ... iOS application development
