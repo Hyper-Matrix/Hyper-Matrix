@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on ... Mobile application development and web-development
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/abhishek-kumar-813b55111/) ||  [Gmail](mailto:abhishekkumar11122@gmail.com) || [Instagram](https://www.instagram.com/ak_toxin/)
 - 💬 Ask me about ... Android , iOS and anything related to Gadgets.
+
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Hyper-Matrix)](https://github.com/Hyper-Matrix/github-readme-stats)
 <!--
 **Hyper-Matrix/Hyper-Matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
